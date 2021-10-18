@@ -1,4 +1,4 @@
-## Your Name / Date
+## Viktoryia Gidrevich  / 10.11.2021
 
 ## Executive Summary 
 On this week we will explore and practice with file and folder compression. Explore object oriented programming or OOP and practice creating a class and objects using Python and explore Object Oriented Programming Concepts and how it can be used to define classes.
